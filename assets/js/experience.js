@@ -5,25 +5,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Full Stack Developer",
+    cardImage: "assets/images/experience-page/factom.png",
+    place: "Factom, USA",
+    time: "06/2022 - 02/2023",
+    desp: "<li>Created an application interface that integrated 35 third-party APIs and improved sales results by 80% within 3 weeks on the job.</li> <li>Wrote 200= unit tests to verify the functionality of user interfaces, back-end Web3 MySQL Laravel JavaScript CSS PHP HTML LANGUAGES processing, connectivity, and relational database interactions</li> <li>Implemented software design patterns and best practices, resulting in a 25% reduction in software issues</li> <li>Revamped website flows and navigation menus, reducing the frequency of misdirected customer service queries by 30% and increasing traffic to previously neglected pages.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Co-founder & Software Engineer",
+    cardImage: "assets/images/experience-page/masma.png",
+    place: "Masma, Japan",
+    time: "12/2020 - 06/2022",
+    desp: "<li>Spearheaded the design and development of the NFT deployer, resulting in a 40% increase in efficiency in deploying non-fungible tokens on various blockchain platforms.</li><li>Successfully implemented over 20 smart contracts and decentralized applications, resulting in a 60% reduction in transaction processing time and a 75% reduction in gas fees.</li><li>Utilized coding, cryptography, and security skills to ensure the secure and seamless operation of the NFT Deployer, resulting in a 90% decrease in the number of security incidents reported by users.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Full Stack Developer",
+    cardImage: "assets/images/experience-page/HBLAB.png",
+    place: "HBLAB JSC, Japan",
+    time: "07/2019 - 12/2020",
+    desp: "<li>Improved performance by resolving more than 80 critical bugs in the company’s products.</li><li>Reduced development time by 70% through code reuse in jQuery libraries for various projects with over 1.8K combined page visits</li> <li>Increased daily traffic from 35% to 80% by repairing existing websites to improve user experience and incorporated SEO</li>",
   },
 ];
 

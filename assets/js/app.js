@@ -10,7 +10,7 @@ document.body.appendChild(script);
 
 let header = $(`
 <nav class="navbar navbar-expand-lg fixed-top dark-theme" id="navbar">
-<a class="navbar-brand" href="index.html">John Doe </a>
+<a class="navbar-brand" href="index.html">Terry Ray </a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
   <div id="js-hamburger" class="hamburger">
@@ -25,10 +25,9 @@ let header = $(`
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://hashnode.com/" target="_blank">Blogs</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://docs.google.com/document/d/16UBSi22l4EQMDEQqBJiaFmtpLK5fXVDexA7ONXPTgTo/edit?usp=sharing" target="_blank">Resume</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
    </li>
@@ -138,7 +137,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
               </div>
-                <form name="form1" action="https://formcarry.com/s/BywEPAJNb" method="POST" accept-charset="UTF-8" >
+                <form name="form1" action="https://formcarry.com/s/a8oy3APrm_l" method="POST" accept-charset="UTF-8" >
                   <input id="name" type="text" name="name" placeholder="Your Name" required/>
                   <input id="email" type="email" name="email" placeholder="Email Address" required/>                  
                   <textarea id="textArea" name="message" placeholder="Type your Message" required></textarea>
@@ -228,18 +227,15 @@ let footer = $(`
 
 
 
-    <a class="social-button instagram" href="" target="_blank" >
-    <!-- svg code for instagram icon -->
-      <svg class="instagram-icon-footer" x="0px" y="0px" viewBox="0 0 202.5 202.5"
-        style="enable-background:new 0 0 202.5 202.5;">
-        <circle id="littleCircle" class="st0" cx="101" cy="101.5" r="18.9" />
-        <circle id="shutter" class="st0" cx="101" cy="101.5" r="8" />
-        <circle id="lens" class="st0" cx="125.5" cy="78.6" r="2.9" />
-        <path id="camera" class="st0" d="M79,60.5h44c10.5,0,19,8.5,19,19v44c0,10.5-8.5,19-19,19H79c-10.5,0-19-8.5-19-19v-44                                                                            C60,69,68.5,60.5,79,60.5z" />
+    <a class="social-button instagram" href="https://t.me/BlueSoul137058" target="_blank">
+      <!-- svg code for telegram icon -->
+      <svg class="instagram-icon-footer" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="#0088cc"
+        stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-instagram">
+      <path d="M18.384,22.779c0.322,0.228 0.737,0.285 1.107,0.145c0.37,-0.141 0.642,-0.457 0.724,-0.84c0.869,-4.084 2.977,-14.421 3.768,-18.136c0.06,-0.28 -0.04,-0.571 -0.26,-0.758c-0.22,-0.187 -0.525,-0.241 -0.797,-0.14c-4.193,1.552 -17.106,6.397 -22.384,8.35c-0.335,0.124 -0.553,0.446 -0.542,0.799c0.012,0.354 0.25,0.661 0.593,0.764c2.367,0.708 5.474,1.693 5.474,1.693c0,0 1.452,4.385 2.209,6.615c0.095,0.28 0.314,0.5 0.603,0.576c0.288,0.075 0.596,-0.004 0.811,-0.207c1.216,-1.148 3.096,-2.923 3.096,-2.923c0,0 3.572,2.619 5.598,4.062Zm-11.01,-8.677l1.679,5.538l0.373,-3.507c0,0 6.487,-5.851 10.185,-9.186c0.108,-0.098 0.123,-0.262 0.033,-0.377c-0.089,-0.115 -0.253,-0.142 -0.376,-0.064c-4.286,2.737 -11.894,7.596 -11.894,7.596Z"/>
       </svg>
     </a>
 
-    <a class="social-button github" href="#" target="_blank">
+    <a class="social-button github" href="https://github.com/RAZGRIZ219104" target="_blank">
     <!-- SVG code for Github icon -->
     <svg class="github-icon-footer" width="45px" height="45px" viewBox="0 0 300 300">
         <!-- body -->
